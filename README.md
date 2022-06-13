@@ -1,0 +1,1 @@
+# Script that lets you interact with a mysql database through python
